@@ -1,0 +1,71 @@
+body {
+    width: 1000px;
+    margin: auto;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 60px;
+}
+div{}
+img{
+	max-width: 100%;
+}
+.section1 {
+    overflow: hidden;
+    margin: 30px 30px;
+}
+.section1 .box {
+    float: left;
+    width: 273.33px;
+    padding: 25px;
+    box-sizing: border-box;
+    margin: 0px 20px;
+    background-color: #DBDDDD;
+    border-radius: 10px;
+}
+.section1 .box h2{
+    font-size: 25px;
+    font-weight: 700;
+    color: #454545;
+}
+.section1 .box p{
+    font-size: 12px;
+}
+.section2{
+	background-color: #EEEEEE;
+	border-radius: 10px;
+	margin-bottom: 50px;
+}
+.section2 .header h1{
+	color: #454545;
+	padding-top: 50px;
+	text-align: center;
+	font-weight: 800;
+}
+.section2 .contents{
+	overflow: hidden;
+}
+.section2 .contents img{
+	    height: 50%;
+	    margin: auto;
+}
+.contents div{
+    height: 293.33px;
+    float: left;
+    width: 293.33px;
+    padding: 25px;
+    box-sizing: border-box;
+    margin: 20px 20px;
+    display: flex;
+    border-radius: 10px;
+}
+.bird{
+    background-color: #596dff;
+}
+.deer{
+    background-color: #fa4152;
+}
+.tomato{
+    background-color: violet;
+}
+.water{
+    background-color: #70f860;
+}
